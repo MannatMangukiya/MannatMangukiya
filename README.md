@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Mannat Mangukiya</h1>
+![image](https://github.com/MannatMangukiya/MannatMangukiya/assets/147632583/96f5718d-c358-4309-9ad1-3916f66721a7)<h1 align="center">Hi 👋, I'm Mannat Mangukiya</h1>
 <h3 align="center">A passionate about fullstack web development</h3>
 
-<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Flgope%2Flgope&psig=AOvVaw3HB5hRo7TgDChYHNB6nugp&ust=1712060803729000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjjgtKBoYUDFQAAAAAdAAAAABAE">
+<img align="right" alt="coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw3HB5hRo7TgDChYHNB6nugp&ust=1712060803729000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjjgtKBoYUDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mannatmangukiya&label=Profile%20views&color=0e75b6&style=flat" alt="mannatmangukiya" /> </p>
 
